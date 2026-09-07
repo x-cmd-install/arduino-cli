@@ -5,7 +5,7 @@ about:
   head: 2c192bf
   archived: false
   latestVersion: "v1.5.2-rc.1"
-  collectedAt: 2026-09-07T05:55:24Z
+  collectedAt: 2026-09-07T18:30:57Z
 timeline:
   created: 2018-08-08
   lastCommit: 2026-09-02
@@ -16,8 +16,8 @@ popularity:
   fork: 493
   release: 179
   contributor: 103
-  pullRequest: 2149
-  issue: 1114
+  pullRequest: 2150
+  issue: 1115
 language:
   Go: 2408399
   Shell: 8078
@@ -29,60 +29,60 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 7
-    openPR: 7
+    openPR: 8
     closedIssue: 0
-    openIssue: 5
+    openIssue: 6
     commit: 5
   last60d:
     since: 2026-07-09
     release: 1
     mergedPR: 22
-    openPR: 9
+    openPR: 10
     closedIssue: 1
-    openIssue: 6
+    openIssue: 7
     commit: 24
   last90d:
     since: 2026-06-09
     release: 1
     mergedPR: 34
-    openPR: 12
+    openPR: 13
     closedIssue: 3
-    openIssue: 6
+    openIssue: 7
     commit: 36
   last180d:
     since: 2026-03-11
     release: 4
     mergedPR: 66
-    openPR: 20
+    openPR: 21
     closedIssue: 13
-    openIssue: 9
+    openIssue: 10
     commit: 69
   last360d:
     since: 2025-09-12
     release: 7
     mergedPR: 128
-    openPR: 28
+    openPR: 29
     closedIssue: 28
-    openIssue: 26
+    openIssue: 27
     commit: 134
   last720d:
     since: 2024-09-17
     release: 20
     mergedPR: 298
-    openPR: 33
+    openPR: 34
     closedIssue: 72
-    openIssue: 52
+    openIssue: 53
     commit: 301
 total:
   release: 179
   mergedPR: 1784
-  openPR: 43
+  openPR: 44
   closedIssue: 894
-  openIssue: 220
+  openIssue: 221
   commit: 2974
 ---
 path: /home/runner/.x-repo/github.com/arduino/arduino-cli
-collectedAt: 2026-09-07T05:55:38Z
+collectedAt: 2026-09-07T18:31:08Z
 loc:
   Json:
     code: 929734
@@ -488,7 +488,7 @@ checks:
       - 'Warn: 15 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:55:43+00:00
+  collectedAt: 2026-09-07T18:31:13+00:00
   platform:
     darwin/arm64:
       name:  arduino-cli_1.5.1_macOS_ARM64.tar.gz
