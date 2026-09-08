@@ -5,7 +5,7 @@ about:
   head: 2c192bf
   archived: false
   latestVersion: "v1.5.2-rc.1"
-  collectedAt: 2026-09-08T03:11:40Z
+  collectedAt: 2026-09-08T05:42:47Z
 timeline:
   created: 2018-08-08
   lastCommit: 2026-09-02
@@ -82,7 +82,7 @@ total:
   commit: 2974
 ---
 path: /home/runner/.x-repo/github.com/arduino/arduino-cli
-collectedAt: 2026-09-08T03:11:50Z
+collectedAt: 2026-09-08T05:43:01Z
 loc:
   Json:
     code: 929734
