@@ -1,62 +1,62 @@
 # arduino-cli
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Arduino command line tool
 
-![arduino-cli](https://repo.x-cmd.io/arduino-cli.svg)
+![arduino-cli](https://repo.x-cmd.io/arduino-cli.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install arduino-cli
 ```
 
-## Code insight
+## 代码规模
 
-Total: **1,041,201** lines of code across **795** files in the top 5 languages.
+合计: **1,041,201** 行代码（覆盖前 5 种语言、共 **795** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 929,734 | 0 | 41 | 116 |
 | Go | 71,602 | 11,776 | 10,568 | 398 |
 | Cpp | 26,421 | 84,848 | 39,387 | 32 |
 | Arduino | 4,450 | 484 | 508 | 156 |
 | CHeader | 3,566 | 908 | 679 | 93 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.8 / 10**
+总评分: **5.8 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (1/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/arduino/arduino-cli>
-- **Homepage**: <https://arduino.github.io/arduino-cli/latest/>
-- **License**: GPL-3.0
+- **上游仓库**: <https://github.com/arduino/arduino-cli>
+- **官网**: <https://arduino.github.io/arduino-cli/latest/>
+- **许可证**: GPL-3.0
 
-## Release
+## 发布
 
-- **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-09-02
-- **Assets in release**: 19
+- **最新版本**: `v1.5.2-rc.1` (2026-06-05)
+- **最近提交**: 2026-09-02
+- **Release 含资产**: 19 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 5,020 · **Forks**: 493 · **Open issues**: 1,115 · **Contributors**: 103
+- **Star**: 5,020 · **Fork**: 493 · **开放 issue**: 1,115 · **贡献者**: 103
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 179 · **Merged PRs**: 1784 · **Open PRs**: 46 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2974
+- **发布数**: 179 · **已合并 PR**: 1784 · **开放 PR**: 46 · **已关闭 issue**: 894 · **开放 issue**: 221 · **提交数**: 2974
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 6 | 9 | 0 | 6 | 5 |
 | last60d | 2026-07-12 | 1 | 22 | 12 | 1 | 7 | 24 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 7 | 128 | 31 | 28 | 27 | 134 |
 | last720d | 2024-09-20 | 20 | 298 | 36 | 72 | 53 | 300 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [1.5.1-checksums.txt](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/1.5.1-checksums.txt) | 1.7 KiB | `other` |
 | [arduino-cli_1.5.1-1_amd64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_amd64.deb) | 14.2 MiB | `runtime/deb/amd64` |
 | [arduino-cli_1.5.1-1_arm64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_arm64.deb) | 12.7 MiB | `runtime/deb/arm64` |
@@ -89,12 +89,12 @@ Lowest-scoring checks:
 | [arduino-cli_1.5.1_Windows_64bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.zip) | 17.1 MiB | `native/win/x64` |
 | [CHANGELOG.md](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/CHANGELOG.md) | 471 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **55** distros on [repology.org](https://repology.org/project/arduino-cli). **26** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/arduino-cli) 上共有 **55** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**22** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Debian unstable | `1.5.1` | ✅ latest |
 | Debian 14 | `1.5.1` | ✅ latest |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
@@ -104,13 +104,13 @@ Reported by **55** distros on [repology.org](https://repology.org/project/arduin
 | Void | `1.5.1` | ✅ latest |
 | Alpine edge | `1.5.1` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arduino-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+arduino-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `arduino-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/arduino-cli.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/arduino-cli.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:22:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:22:06Z._
