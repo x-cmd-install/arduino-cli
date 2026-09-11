@@ -48,17 +48,6 @@
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 1.4.1
-  origversion: 1.4.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
   status: newest
@@ -514,9 +503,9 @@
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 1.4.1
-  origversion: 1.4.1-1
-  status: outdated
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only

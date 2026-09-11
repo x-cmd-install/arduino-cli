@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1710,
       "digest": "sha256:1deac1e8d8eff69ef1b0cb8c5d4be2a3a81224b103eaf3403b77ff470c7f4ec6",
-      "download_count": 3838,
+      "download_count": 3851,
       "created_at": "2026-06-05T10:27:20Z",
       "updated_at": "2026-06-05T10:27:20Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/1.5.1-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14880060,
       "digest": "sha256:db838c851f350d21d26923949e76fa15056b0e9755d5c4b5071691fdd09e66a2",
-      "download_count": 5930,
+      "download_count": 5940,
       "created_at": "2026-06-05T10:27:18Z",
       "updated_at": "2026-06-05T10:27:19Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13361364,
       "digest": "sha256:5339c75cbdc985aaf32d9f2d96ef4d373fb9af1d3e54a1d0236f5f364260ec2b",
-      "download_count": 425,
+      "download_count": 426,
       "created_at": "2026-06-05T10:27:15Z",
       "updated_at": "2026-06-05T10:27:16Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_armel.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14245624,
       "digest": "sha256:905223f9028b97038a81783208bd402d9c1bcd1aa49f43551ed84b80436fed04",
-      "download_count": 513,
+      "download_count": 514,
       "created_at": "2026-06-05T10:27:13Z",
       "updated_at": "2026-06-05T10:27:14Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_i386.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8402,
       "digest": "sha256:a6f437c30887dbb8f14ca21e8076292371071f40656b4bec2744fc1238412a0a",
-      "download_count": 421,
+      "download_count": 422,
       "created_at": "2026-06-05T10:27:02Z",
       "updated_at": "2026-06-05T10:27:02Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_configuration.schema.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 17006509,
       "digest": "sha256:85ed48978e7553b16f187971f8202d380421b352696ab28327a36cc6d8f11c6a",
-      "download_count": 455,
+      "download_count": 457,
       "created_at": "2026-06-05T10:27:12Z",
       "updated_at": "2026-06-05T10:27:13Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_32bit.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17630765,
       "digest": "sha256:28a8e119c498a25607821c36cb2dc49e8463941b261a0d99091baa7bc692dd2b",
-      "download_count": 177402,
+      "download_count": 177736,
       "created_at": "2026-06-05T10:27:10Z",
       "updated_at": "2026-06-05T10:27:11Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_64bit.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16155457,
       "digest": "sha256:1e69e077479f300614d4551334e0a33f08ee40b04315d83b8e7e0e94f0d0ee62",
-      "download_count": 2504,
+      "download_count": 2513,
       "created_at": "2026-06-05T10:27:09Z",
       "updated_at": "2026-06-05T10:27:10Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_ARM64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 19355892,
       "digest": "sha256:c982e940027996bea9901050e95fae99c59c1dcfee54beedecaf28141e7bf2e7",
-      "download_count": 679,
+      "download_count": 680,
       "created_at": "2026-06-05T10:27:00Z",
       "updated_at": "2026-06-05T10:27:01Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_macOS_64bit.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 17370016,
       "digest": "sha256:cb952e8c1621c95ef5f1d17831c945e3d0ec5973f89c557a7ec8feb9c4f7d4c9",
-      "download_count": 3391,
+      "download_count": 3403,
       "created_at": "2026-06-05T10:26:58Z",
       "updated_at": "2026-06-05T10:26:59Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_macOS_ARM64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18468864,
       "digest": "sha256:f5ec9eddc0704170272c993c3e01c96237e0a7e2c08e465fd05382e5891faca8",
-      "download_count": 23106,
+      "download_count": 23182,
       "created_at": "2026-06-05T10:27:04Z",
       "updated_at": "2026-06-05T10:27:04Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 17965819,
       "digest": "sha256:fabe42e0eb04d00e776a66178299ff95a46c623dbc260f997e58fd514853dd40",
-      "download_count": 22337,
+      "download_count": 22423,
       "created_at": "2026-06-05T10:27:02Z",
       "updated_at": "2026-06-05T10:27:03Z",
       "browser_download_url": "https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.zip"
