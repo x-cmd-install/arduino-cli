@@ -58,12 +58,12 @@ x install arduino-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 6 | 9 | 0 | 6 | 5 |
-| last60d | 2026-07-12 | 1 | 22 | 12 | 1 | 7 | 24 |
-| 90d | 2026-06-12 | 1 | 34 | 15 | 3 | 7 | 36 |
-| last180d | 2026-03-14 | 4 | 66 | 23 | 13 | 10 | 69 |
-| 360d | 2025-09-15 | 7 | 128 | 31 | 28 | 27 | 134 |
-| last720d | 2024-09-20 | 20 | 298 | 36 | 72 | 53 | 300 |
+| 30d | 2026-08-12 | 0 | 5 | 9 | 0 | 5 | 5 |
+| last60d | 2026-07-13 | 1 | 22 | 12 | 1 | 7 | 24 |
+| 90d | 2026-06-13 | 1 | 34 | 15 | 3 | 7 | 36 |
+| last180d | 2026-03-15 | 4 | 66 | 23 | 12 | 10 | 69 |
+| 360d | 2025-09-16 | 7 | 127 | 31 | 28 | 27 | 134 |
+| last720d | 2024-09-21 | 20 | 298 | 36 | 72 | 53 | 300 |
 
 ## Release 资产
 
@@ -91,14 +91,14 @@ x install arduino-cli
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/arduino-cli) 上共有 **55** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**22** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/arduino-cli) 上共有 **54** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `1.5.1` | ✅ latest |
 | Debian 14 | `1.5.1` | ✅ latest |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
-| Arch | `1.4.1` | ⚠️ outdated |
+| Arch | `1.5.1` | ✅ latest |
 | Homebrew | `1.5.1` | ✅ latest |
 | Nix unstable | `1.5.1` | ✅ latest |
 | Void | `1.5.1` | ✅ latest |
@@ -113,4 +113,4 @@ arduino-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T22:30:12Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T06:01:50Z._

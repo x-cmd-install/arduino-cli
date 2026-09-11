@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 6 | 9 | 0 | 6 | 5 |
-| last60d | 2026-07-12 | 1 | 22 | 12 | 1 | 7 | 24 |
-| 90d | 2026-06-12 | 1 | 34 | 15 | 3 | 7 | 36 |
-| last180d | 2026-03-14 | 4 | 66 | 23 | 13 | 10 | 69 |
-| 360d | 2025-09-15 | 7 | 128 | 31 | 28 | 27 | 134 |
-| last720d | 2024-09-20 | 20 | 298 | 36 | 72 | 53 | 300 |
+| 30d | 2026-08-12 | 0 | 5 | 9 | 0 | 5 | 5 |
+| last60d | 2026-07-13 | 1 | 22 | 12 | 1 | 7 | 24 |
+| 90d | 2026-06-13 | 1 | 34 | 15 | 3 | 7 | 36 |
+| last180d | 2026-03-15 | 4 | 66 | 23 | 12 | 10 | 69 |
+| 360d | 2025-09-16 | 7 | 127 | 31 | 28 | 27 | 134 |
+| last720d | 2024-09-21 | 20 | 298 | 36 | 72 | 53 | 300 |
 
 ## Release assets
 
@@ -91,14 +91,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/arduino-cli). **26** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **54** distros on [repology.org](https://repology.org/project/arduino-cli). **27** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.5.1` | ✅ latest |
 | Debian 14 | `1.5.1` | ✅ latest |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
-| Arch | `1.4.1` | ⚠️ outdated |
+| Arch | `1.5.1` | ✅ latest |
 | Homebrew | `1.5.1` | ✅ latest |
 | Nix unstable | `1.5.1` | ✅ latest |
 | Void | `1.5.1` | ✅ latest |
@@ -113,4 +113,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:30:11Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:01:49Z._
