@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,020 · **Forks**: 493 · **Open issues**: 1,115 · **Contributors**: 103
+- **Stars**: 5,021 · **Forks**: 493 · **Open issues**: 1,115 · **Contributors**: 103
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 5 | 9 | 0 | 5 | 5 |
-| last60d | 2026-07-13 | 1 | 22 | 12 | 1 | 7 | 24 |
-| 90d | 2026-06-13 | 1 | 34 | 15 | 3 | 7 | 36 |
-| last180d | 2026-03-15 | 4 | 66 | 23 | 12 | 10 | 69 |
-| 360d | 2025-09-16 | 7 | 127 | 31 | 28 | 27 | 134 |
-| last720d | 2024-09-21 | 20 | 298 | 36 | 72 | 53 | 300 |
+| 30d | 2026-08-13 | 0 | 5 | 9 | 0 | 4 | 5 |
+| last60d | 2026-07-14 | 1 | 21 | 12 | 1 | 7 | 24 |
+| 90d | 2026-06-14 | 1 | 34 | 15 | 3 | 7 | 36 |
+| last180d | 2026-03-16 | 4 | 65 | 23 | 12 | 10 | 69 |
+| 360d | 2025-09-17 | 7 | 127 | 31 | 28 | 27 | 134 |
+| last720d | 2024-09-22 | 20 | 298 | 36 | 72 | 53 | 300 |
 
 ## Release assets
 
@@ -91,7 +91,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **54** distros on [repology.org](https://repology.org/project/arduino-cli). **27** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **53** distros on [repology.org](https://repology.org/project/arduino-cli). **26** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -113,4 +113,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:53:18Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:48:12Z._
