@@ -14,11 +14,11 @@ x install arduino-cli
 
 ## Code insight
 
-Total: **1,041,201** lines of code across **795** files in the top 5 languages.
+Total: **1,041,202** lines of code across **795** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 929,734 | 0 | 41 | 116 |
+| Json | 929,735 | 0 | 41 | 116 |
 | Go | 71,602 | 11,776 | 10,568 | 398 |
 | Cpp | 26,421 | 84,848 | 39,387 | 32 |
 | Arduino | 4,450 | 484 | 508 | 156 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-09-02
+- **Last commit**: 2026-09-15
 - **Assets in release**: 19
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1784 · **Open PRs**: 47 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2974
+- **Releases**: 179 · **Merged PRs**: 1785 · **Open PRs**: 48 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2975
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 5 | 10 | 0 | 4 | 5 |
-| last60d | 2026-07-16 | 1 | 21 | 12 | 1 | 7 | 22 |
-| 90d | 2026-06-16 | 1 | 33 | 13 | 3 | 7 | 28 |
-| last180d | 2026-03-18 | 4 | 63 | 24 | 12 | 9 | 67 |
-| 360d | 2025-09-19 | 7 | 127 | 32 | 27 | 26 | 132 |
-| last720d | 2024-09-24 | 20 | 297 | 37 | 72 | 53 | 300 |
+| 30d | 2026-08-16 | 0 | 6 | 11 | 0 | 3 | 6 |
+| last60d | 2026-07-17 | 1 | 22 | 13 | 1 | 7 | 23 |
+| 90d | 2026-06-17 | 1 | 33 | 14 | 3 | 7 | 29 |
+| last180d | 2026-03-19 | 4 | 63 | 25 | 12 | 9 | 68 |
+| 360d | 2025-09-20 | 7 | 128 | 33 | 26 | 25 | 133 |
+| last720d | 2024-09-25 | 20 | 298 | 38 | 72 | 53 | 301 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:16:45Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:24:26Z._
