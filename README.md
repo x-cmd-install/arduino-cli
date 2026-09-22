@@ -14,12 +14,12 @@ x install arduino-cli
 
 ## Code insight
 
-Total: **1,041,218** lines of code across **795** files in the top 5 languages.
+Total: **1,041,216** lines of code across **795** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 929,735 | 0 | 41 | 116 |
-| Go | 71,618 | 11,779 | 10,570 | 398 |
+| Go | 71,616 | 11,779 | 10,570 | 398 |
 | Cpp | 26,421 | 84,848 | 39,387 | 32 |
 | Arduino | 4,450 | 484 | 508 | 156 |
 | CHeader | 3,566 | 908 | 679 | 93 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-21
 - **Assets in release**: 19
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1786 · **Open PRs**: 48 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2976
+- **Releases**: 179 · **Merged PRs**: 1787 · **Open PRs**: 50 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 7 | 11 | 0 | 3 | 3 |
-| last60d | 2026-07-23 | 1 | 17 | 13 | 0 | 7 | 20 |
-| 90d | 2026-06-23 | 1 | 28 | 14 | 2 | 7 | 30 |
-| last180d | 2026-03-25 | 4 | 61 | 24 | 11 | 9 | 65 |
-| 360d | 2025-09-26 | 7 | 128 | 33 | 24 | 24 | 133 |
-| last720d | 2024-10-01 | 20 | 296 | 38 | 70 | 53 | 302 |
+| 30d | 2026-08-23 | 0 | 8 | 13 | 0 | 3 | 4 |
+| last60d | 2026-07-24 | 0 | 17 | 15 | 0 | 7 | 21 |
+| 90d | 2026-06-24 | 1 | 29 | 16 | 2 | 7 | 31 |
+| last180d | 2026-03-26 | 4 | 60 | 26 | 11 | 9 | 66 |
+| 360d | 2025-09-27 | 7 | 129 | 35 | 24 | 24 | 134 |
+| last720d | 2024-10-02 | 20 | 296 | 40 | 70 | 53 | 303 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:10:14Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:09:48Z._
