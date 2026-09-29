@@ -26,7 +26,7 @@ Total: **1,041,219** lines of code across **795** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,044 · **Forks**: 496 · **Open issues**: 1,115 · **Contributors**: 103
+- **Stars**: 5,047 · **Forks**: 497 · **Open issues**: 1,115 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1789 · **Open PRs**: 54 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2979
+- **Releases**: 179 · **Merged PRs**: 1789 · **Open PRs**: 56 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2979
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 6 | 15 | 0 | 2 | 5 |
-| last60d | 2026-07-30 | 0 | 16 | 18 | 0 | 6 | 17 |
-| 90d | 2026-06-30 | 1 | 30 | 20 | 1 | 7 | 32 |
-| last180d | 2026-04-01 | 4 | 61 | 29 | 11 | 9 | 66 |
-| 360d | 2025-10-03 | 7 | 130 | 39 | 24 | 24 | 136 |
-| last720d | 2024-10-08 | 20 | 292 | 44 | 66 | 53 | 295 |
+| 30d | 2026-08-30 | 0 | 6 | 17 | 0 | 2 | 5 |
+| last60d | 2026-07-31 | 0 | 15 | 20 | 0 | 6 | 17 |
+| 90d | 2026-07-01 | 1 | 29 | 22 | 1 | 7 | 32 |
+| last180d | 2026-04-02 | 4 | 61 | 31 | 11 | 9 | 66 |
+| 360d | 2025-10-04 | 7 | 130 | 41 | 23 | 24 | 136 |
+| last720d | 2024-10-09 | 20 | 291 | 46 | 65 | 53 | 295 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:23:14Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:45:30Z._
