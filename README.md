@@ -14,12 +14,12 @@ x install arduino-cli
 
 ## Code insight
 
-Total: **1,041,219** lines of code across **795** files in the top 5 languages.
+Total: **1,041,274** lines of code across **795** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 929,735 | 0 | 41 | 116 |
-| Go | 71,619 | 11,779 | 10,570 | 398 |
+| Go | 71,674 | 11,781 | 10,576 | 398 |
 | Cpp | 26,421 | 84,848 | 39,387 | 32 |
 | Arduino | 4,450 | 484 | 508 | 156 |
 | CHeader | 3,566 | 908 | 679 | 93 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-02
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 5,049 · **Forks**: 498 · **Open issues**: 1,115 · **Contributors**: 103
+- **Stars**: 5,049 · **Forks**: 498 · **Open issues**: 1,115 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1789 · **Open PRs**: 59 · **Closed issues**: 894 · **Open issues**: 221 · **Commits**: 2979
+- **Releases**: 179 · **Merged PRs**: 1791 · **Open PRs**: 57 · **Closed issues**: 895 · **Open issues**: 220 · **Commits**: 2981
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 6 | 19 | 0 | 2 | 5 |
-| last60d | 2026-08-02 | 0 | 15 | 23 | 0 | 6 | 17 |
-| 90d | 2026-07-03 | 1 | 29 | 25 | 1 | 7 | 32 |
-| last180d | 2026-04-04 | 4 | 61 | 34 | 11 | 9 | 66 |
-| 360d | 2025-10-06 | 7 | 129 | 44 | 23 | 24 | 136 |
-| last720d | 2024-10-11 | 20 | 289 | 49 | 65 | 53 | 295 |
+| 30d | 2026-09-02 | 0 | 6 | 18 | 0 | 2 | 7 |
+| last60d | 2026-08-03 | 0 | 15 | 22 | 0 | 6 | 19 |
+| 90d | 2026-07-04 | 1 | 30 | 24 | 1 | 7 | 34 |
+| last180d | 2026-04-05 | 4 | 63 | 32 | 10 | 9 | 68 |
+| 360d | 2025-10-07 | 7 | 131 | 42 | 24 | 23 | 138 |
+| last720d | 2024-10-12 | 20 | 290 | 47 | 66 | 52 | 295 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:51:52Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:39:11Z._
