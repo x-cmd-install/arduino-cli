@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 6 | 18 | 0 | 0 | 6 |
-| last60d | 2026-08-13 | 0 | 12 | 24 | 0 | 4 | 13 |
-| 90d | 2026-07-14 | 1 | 28 | 27 | 1 | 7 | 32 |
-| last180d | 2026-04-15 | 4 | 59 | 33 | 9 | 8 | 61 |
-| 360d | 2025-10-17 | 7 | 130 | 45 | 24 | 23 | 135 |
-| last720d | 2024-10-22 | 20 | 286 | 50 | 65 | 51 | 293 |
+| 30d | 2026-09-13 | 0 | 5 | 18 | 0 | 0 | 6 |
+| last60d | 2026-08-14 | 0 | 12 | 24 | 0 | 4 | 13 |
+| 90d | 2026-07-15 | 1 | 28 | 27 | 1 | 7 | 32 |
+| last180d | 2026-04-16 | 4 | 58 | 33 | 9 | 8 | 61 |
+| 360d | 2025-10-18 | 7 | 130 | 45 | 24 | 23 | 135 |
+| last720d | 2024-10-23 | 20 | 286 | 50 | 65 | 51 | 292 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:12:04Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:53:19Z._
