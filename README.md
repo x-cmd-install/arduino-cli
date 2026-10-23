@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-22
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 5,068 · **Forks**: 501 · **Open issues**: 1,116 · **Contributors**: 104
+- **Stars**: 5,069 · **Forks**: 501 · **Open issues**: 1,116 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1793 · **Open PRs**: 63 · **Closed issues**: 896 · **Open issues**: 220 · **Commits**: 2983
+- **Releases**: 179 · **Merged PRs**: 1794 · **Open PRs**: 62 · **Closed issues**: 896 · **Open issues**: 220 · **Commits**: 2984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 4 | 16 | 0 | 1 | 5 |
-| last60d | 2026-08-23 | 0 | 13 | 27 | 0 | 4 | 14 |
-| 90d | 2026-07-24 | 0 | 22 | 29 | 0 | 8 | 27 |
-| last180d | 2026-04-25 | 3 | 59 | 36 | 9 | 9 | 62 |
-| 360d | 2025-10-27 | 7 | 128 | 47 | 25 | 23 | 132 |
-| last720d | 2024-11-01 | 20 | 283 | 53 | 66 | 51 | 288 |
+| 30d | 2026-09-23 | 0 | 4 | 15 | 0 | 1 | 6 |
+| last60d | 2026-08-24 | 0 | 14 | 25 | 0 | 4 | 15 |
+| 90d | 2026-07-25 | 0 | 23 | 28 | 0 | 7 | 28 |
+| last180d | 2026-04-26 | 3 | 60 | 35 | 8 | 9 | 63 |
+| 360d | 2025-10-28 | 7 | 128 | 45 | 25 | 23 | 133 |
+| last720d | 2024-11-02 | 20 | 284 | 52 | 65 | 51 | 289 |
 
 ## Release assets
 
@@ -89,6 +89,21 @@ Lowest-scoring checks:
 | [arduino-cli_1.5.1_Windows_64bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.zip) | 17.1 MiB | `native/win/x64` |
 | [CHANGELOG.md](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/CHANGELOG.md) | 471 B | `other` |
 
+## Distribution status
+
+Reported by **55** distros on [repology.org](https://repology.org/project/arduino-cli). **32** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.5.1` | ✅ latest |
+| Debian 14 | `1.5.1` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
+| Arch | `1.5.1` | ✅ latest |
+| Homebrew | `1.5.1` | ✅ latest |
+| Nix unstable | `1.5.1` | ✅ latest |
+| Void | `1.5.1` | ✅ latest |
+| Alpine edge | `1.5.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arduino-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +113,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:46:25Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:47Z._
