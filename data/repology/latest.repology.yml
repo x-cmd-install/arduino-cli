@@ -1,3 +1,53 @@
+- repo: parabola
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
+- repo: raspbian_testing
+  subrepo: main
+  srcname: arduino-cli
+  binnames:
+    - golang-github-arduino-arduino-cli-dev
+    - arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-4
+  status: newest
+  maintainers:
+    - pkg-electronics-devel@alioth-lists.debian.net
+    - nicolas@club1.fr
+    - obbardc@debian.org
+    - werdahias@debian.org
+  categories:
+    - electronics
 - repo: alpine_edge
   subrepo: testing
   srcname: arduino-cli
@@ -257,16 +307,6 @@
     - MPL-2.0
   categories:
     - dev-embedded
-- repo: slackbuilds
-  srcname: development/arduino-cli
-  visiblename: development/arduino-cli
-  version: 1.5.1
-  origversion: null
-  status: newest
-  maintainers:
-    - slackbuilds@dscp.org
-  categories:
-    - development
 - repo: liguros_stable
   srcname: dev-embedded/arduino-cli
   visiblename: dev-embedded/arduino-cli
@@ -373,28 +413,6 @@
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_24_05
   srcname: arduino-cli
   visiblename: arduino-cli
@@ -497,34 +515,6 @@
   summary: An all-in-one solution that provides Boards/Library Managers, sketch builder, board detection, uploader, and many other tools needed to use any Arduino compatible board and platform from command line or machine interfaces
   maintainers:
     - me@mikealmel.ooo
-- repo: parabola
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: raspbian_testing
-  subrepo: main
-  srcname: arduino-cli
-  binnames:
-    - golang-github-arduino-arduino-cli-dev
-    - arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-4
-  status: newest
-  maintainers:
-    - pkg-electronics-devel@alioth-lists.debian.net
-    - nicolas@club1.fr
-    - obbardc@debian.org
-    - werdahias@debian.org
-  categories:
-    - electronics
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: arduino-cli
@@ -570,6 +560,16 @@
   status: newest
   licenses:
     - GPL-3.0-or-later
+- repo: slackbuilds
+  srcname: development/arduino-cli
+  visiblename: development/arduino-cli
+  version: 1.5.1
+  origversion: null
+  status: newest
+  maintainers:
+    - slackbuilds@dscp.org
+  categories:
+    - development
 - repo: terra_41
   srcname: arduino-cli
   binname: arduino-cli
