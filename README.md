@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1796 · **Open PRs**: 57 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2986
+- **Releases**: 179 · **Merged PRs**: 1796 · **Open PRs**: 58 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 3 | 10 | 0 | 1 | 4 |
-| last60d | 2026-09-04 | 0 | 10 | 17 | 0 | 2 | 12 |
-| 90d | 2026-08-05 | 0 | 18 | 22 | 1 | 6 | 22 |
-| last180d | 2026-05-07 | 3 | 62 | 29 | 8 | 8 | 65 |
-| 360d | 2025-11-08 | 7 | 127 | 40 | 26 | 22 | 129 |
-| last720d | 2024-11-13 | 18 | 283 | 47 | 64 | 50 | 285 |
+| 30d | 2026-10-05 | 0 | 3 | 11 | 0 | 1 | 4 |
+| last60d | 2026-09-05 | 0 | 10 | 18 | 0 | 2 | 12 |
+| 90d | 2026-08-06 | 0 | 18 | 23 | 1 | 6 | 22 |
+| last180d | 2026-05-08 | 3 | 62 | 30 | 8 | 8 | 65 |
+| 360d | 2025-11-09 | 7 | 127 | 40 | 26 | 21 | 129 |
+| last720d | 2024-11-14 | 18 | 282 | 48 | 64 | 50 | 285 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:57:33Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:26:45Z._
