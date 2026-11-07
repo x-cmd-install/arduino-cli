@@ -104,6 +104,19 @@
     - werdahias@debian.org
   categories:
     - electronics
+- repo: nix_stable_25_05
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Arduino from the command line
+  maintainers:
+    - ryan@ryantm.com
+    - sfrijters@gmail.com
+  licenses:
+    - GPL-3.0-only
+    - Apache-2.0
 - repo: debian_unstable
   subrepo: sid/main
   srcname: arduino-cli
@@ -357,23 +370,23 @@
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 0.34.2
-  origversion: 0.34.2-1
-  status: outdated
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
   summary: Arduino command line interface
   licenses:
-    - GPL3
+    - GPL-3.0-only
 - repo: manjaro_testing
   subrepo: extra
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 0.34.2
-  origversion: 0.34.2-1
-  status: outdated
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
   summary: Arduino command line interface
   licenses:
-    - GPL3
+    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: arduino-cli
@@ -400,19 +413,6 @@
   srcname: arduino-cli
   visiblename: arduino-cli
   version: 1.0.4
-  origversion: null
-  status: outdated
-  summary: Arduino from the command line
-  maintainers:
-    - ryan@ryantm.com
-    - sfrijters@gmail.com
-  licenses:
-    - GPL-3.0-only
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.2.2
   origversion: null
   status: outdated
   summary: Arduino from the command line
@@ -757,6 +757,23 @@
     - universe/electronics
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: arduino-cli
+  binnames:
+    - golang-github-arduino-arduino-cli-dev
+    - arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-4
+  status: newest
+  maintainers:
+    - pkg-electronics-devel@alioth-lists.debian.net
+    - nicolas@club1.fr
+    - obbardc@debian.org
+    - werdahias@debian.org
+  categories:
+    - universe/electronics
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: arduino-cli
   binnames:
     - golang-github-arduino-arduino-cli-dev
