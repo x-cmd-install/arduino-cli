@@ -42,67 +42,68 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.5.2-rc.1` (2026-06-05)
-- **Last commit**: 2026-11-09
-- **Assets in release**: 19
+- **Latest**: `v1.6.0` (2026-11-10)
+- **Last commit**: 2026-11-10
+- **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 5,082 · **Forks**: 506 · **Open issues**: 1,116 · **Contributors**: 106
+- **Stars**: 5,086 · **Forks**: 506 · **Open issues**: 1,116 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 1799 · **Open PRs**: 67 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2989
+- **Releases**: 180 · **Merged PRs**: 1800 · **Open PRs**: 67 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2990
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 6 | 20 | 0 | 1 | 7 |
-| last60d | 2026-09-11 | 0 | 12 | 27 | 0 | 1 | 13 |
-| 90d | 2026-08-12 | 0 | 19 | 31 | 1 | 5 | 20 |
-| last180d | 2026-05-14 | 3 | 65 | 39 | 8 | 7 | 64 |
-| 360d | 2025-11-15 | 7 | 124 | 49 | 25 | 20 | 128 |
-| last720d | 2024-11-20 | 18 | 284 | 56 | 63 | 48 | 287 |
+| 30d | 2026-10-12 | 1 | 6 | 21 | 0 | 1 | 8 |
+| last60d | 2026-09-12 | 1 | 12 | 28 | 0 | 1 | 14 |
+| 90d | 2026-08-13 | 1 | 19 | 32 | 1 | 4 | 21 |
+| last180d | 2026-05-15 | 4 | 65 | 39 | 8 | 7 | 65 |
+| 360d | 2025-11-16 | 8 | 125 | 49 | 25 | 20 | 129 |
+| last720d | 2024-11-21 | 19 | 283 | 56 | 63 | 48 | 288 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [1.5.1-checksums.txt](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/1.5.1-checksums.txt) | 1.7 KiB | `other` |
-| [arduino-cli_1.5.1-1_amd64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_amd64.deb) | 14.2 MiB | `runtime/deb/amd64` |
-| [arduino-cli_1.5.1-1_arm64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_arm64.deb) | 12.7 MiB | `runtime/deb/arm64` |
-| [arduino-cli_1.5.1-1_armel.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_armel.deb) | 12.7 MiB | `other` |
-| [arduino-cli_1.5.1-1_armhf.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_armhf.deb) | 12.7 MiB | `runtime/deb/armhf` |
-| [arduino-cli_1.5.1-1_i386.deb](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1-1_i386.deb) | 13.6 MiB | `runtime/deb/i386` |
-| [arduino-cli_1.5.1_configuration.schema.json](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_configuration.schema.json) | 8.2 KiB | `other` |
-| [arduino-cli_1.5.1_Linux_32bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_32bit.tar.gz) | 16.2 MiB | `native/unknown` |
-| [arduino-cli_1.5.1_Linux_64bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_64bit.tar.gz) | 16.8 MiB | `native/unknown` |
-| [arduino-cli_1.5.1_Linux_ARM64.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_ARM64.tar.gz) | 15.4 MiB | `native/linux/arm64` |
-| [arduino-cli_1.5.1_Linux_ARMv6.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_ARMv6.tar.gz) | 15.7 MiB | `native/linux/arm` |
-| [arduino-cli_1.5.1_Linux_ARMv7.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Linux_ARMv7.tar.gz) | 15.7 MiB | `native/linux/arm` |
-| [arduino-cli_1.5.1_macOS_64bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_macOS_64bit.tar.gz) | 18.5 MiB | `native/darwin/x64` |
-| [arduino-cli_1.5.1_macOS_ARM64.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_macOS_ARM64.tar.gz) | 16.6 MiB | `native/darwin/arm64` |
-| [arduino-cli_1.5.1_proto.zip](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_proto.zip) | 28.3 KiB | `other` |
-| [arduino-cli_1.5.1_Windows_32bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_32bit.zip) | 16.7 MiB | `native/win/x64` |
-| [arduino-cli_1.5.1_Windows_64bit.msi](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.msi) | 17.6 MiB | `native/win/x64` |
-| [arduino-cli_1.5.1_Windows_64bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.zip) | 17.1 MiB | `native/win/x64` |
-| [CHANGELOG.md](https://github.com/arduino/arduino-cli/releases/download/v1.5.1/CHANGELOG.md) | 471 B | `other` |
+| [1.6.0-checksums.txt](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/1.6.0-checksums.txt) | 1.8 KiB | `other` |
+| [arduino-cli_1.6.0-1_amd64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0-1_amd64.deb) | 16.4 MiB | `runtime/deb/amd64` |
+| [arduino-cli_1.6.0-1_arm64.deb](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
+| [arduino-cli_1.6.0-1_armel.deb](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0-1_armel.deb) | 14.7 MiB | `other` |
+| [arduino-cli_1.6.0-1_armhf.deb](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0-1_armhf.deb) | 14.7 MiB | `runtime/deb/armhf` |
+| [arduino-cli_1.6.0-1_i386.deb](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0-1_i386.deb) | 15.7 MiB | `runtime/deb/i386` |
+| [arduino-cli_1.6.0_configuration.schema.json](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_configuration.schema.json) | 8.2 KiB | `other` |
+| [arduino-cli_1.6.0_Linux_32bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Linux_32bit.tar.gz) | 18.6 MiB | `native/unknown` |
+| [arduino-cli_1.6.0_Linux_64bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Linux_64bit.tar.gz) | 19.2 MiB | `native/unknown` |
+| [arduino-cli_1.6.0_Linux_ARM64.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Linux_ARM64.tar.gz) | 17.5 MiB | `native/linux/arm64` |
+| [arduino-cli_1.6.0_Linux_ARMv6.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Linux_ARMv6.tar.gz) | 17.9 MiB | `native/linux/arm` |
+| [arduino-cli_1.6.0_Linux_ARMv7.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Linux_ARMv7.tar.gz) | 17.9 MiB | `native/linux/arm` |
+| [arduino-cli_1.6.0_macOS_64bit.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_macOS_64bit.tar.gz) | 20.8 MiB | `native/darwin/x64` |
+| [arduino-cli_1.6.0_macOS_ARM64.tar.gz](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_macOS_ARM64.tar.gz) | 18.4 MiB | `native/darwin/arm64` |
+| [arduino-cli_1.6.0_proto.zip](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_proto.zip) | 28.4 KiB | `other` |
+| [arduino-cli_1.6.0_Windows_32bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Windows_32bit.zip) | 19.0 MiB | `native/win/x64` |
+| [arduino-cli_1.6.0_Windows_64bit.msi](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Windows_64bit.msi) | 19.9 MiB | `native/win/x64` |
+| [arduino-cli_1.6.0_Windows_64bit.zip](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Windows_64bit.zip) | 19.5 MiB | `native/win/x64` |
+| [arduino-cli_1.6.0_Windows_ARM64.zip](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/arduino-cli_1.6.0_Windows_ARM64.zip) | 17.7 MiB | `native/win/arm64` |
+| [CHANGELOG.md](https://github.com/arduino/arduino-cli/releases/download/v1.6.0/CHANGELOG.md) | 1.8 KiB | `other` |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/arduino-cli). **34** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/arduino-cli). **3** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.5.1` | ✅ latest |
-| Debian 14 | `1.5.1` | ✅ latest |
+| Debian unstable | `1.5.1` | ⚠️ outdated |
+| Debian 14 | `1.5.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
-| Arch | `1.5.1` | ✅ latest |
-| Homebrew | `1.5.1` | ✅ latest |
-| Nix unstable | `1.5.1` | ✅ latest |
-| Void | `1.5.1` | ✅ latest |
-| Alpine edge | `1.5.1` | ✅ latest |
+| Arch | `1.5.1` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.5.1` | ⚠️ outdated |
+| Void | `1.5.1` | ⚠️ outdated |
+| Alpine edge | `1.5.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -113,4 +114,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:46:05Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:28:15Z._
