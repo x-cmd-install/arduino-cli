@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Arduino command-line interface
 - repo: alpine_edge
   subrepo: testing
   srcname: arduino-cli
@@ -5,7 +12,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-r2
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - rdbodev@gmail.com
@@ -19,7 +26,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-alt1
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - karonus@altlinux.org
@@ -35,7 +42,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-alt1
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - karonus@altlinux.org
@@ -50,7 +57,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -73,7 +80,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -82,7 +89,7 @@
   visiblename: Arduino Command Line Interface (CLI)
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: |-
     Arduino CLI is an all-in-one solution that provides builder, boards/library manager,
     uploader, discovery and many other tools needed to use any Arduino compatible
@@ -96,7 +103,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -104,19 +111,6 @@
     - werdahias@debian.org
   categories:
     - electronics
-- repo: nix_stable_25_05
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Arduino from the command line
-  maintainers:
-    - ryan@ryantm.com
-    - sfrijters@gmail.com
-  licenses:
-    - GPL-3.0-only
-    - Apache-2.0
 - repo: debian_unstable
   subrepo: sid/main
   srcname: arduino-cli
@@ -126,7 +120,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -143,7 +137,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -217,21 +211,14 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Tools to manage Arduino compatible boards
 - repo: homebrew
   srcname: arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
-  summary: Arduino command-line interface
-- repo: homebrew
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Arduino command-line interface
 - repo: kali_rolling
   subrepo: main
@@ -242,7 +229,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -356,7 +343,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - judaew@macports
@@ -372,7 +359,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -383,7 +370,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -394,7 +381,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -413,6 +400,19 @@
   srcname: arduino-cli
   visiblename: arduino-cli
   version: 1.0.4
+  origversion: null
+  status: outdated
+  summary: Arduino from the command line
+  maintainers:
+    - ryan@ryantm.com
+    - sfrijters@gmail.com
+  licenses:
+    - GPL-3.0-only
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.2.2
   origversion: null
   status: outdated
   summary: Arduino from the command line
@@ -453,7 +453,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Arduino from the command line
   maintainers:
     - ryan@ryantm.com
@@ -467,8 +467,8 @@
   binnames:
     - arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1mamba
+  version: 1.6.0
+  origversion: 1.6.0-1mamba
   status: newest
   summary: Arduino command line tool
   maintainers:
@@ -483,7 +483,7 @@
   visiblename: arduino-cli-bin
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: An all-in-one solution that provides Boards/Library Managers, sketch builder, board detection, uploader, and many other tools needed to use any Arduino compatible board and platform from command line or machine interfaces
   maintainers:
     - me@mikealmel.ooo
@@ -494,7 +494,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   licenses:
     - GPL-3.0-only
@@ -507,7 +507,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -525,7 +525,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - temap@mail.ru
@@ -543,7 +543,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - temap@mail.ru
@@ -555,7 +555,7 @@
   subrepo: main
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   licenses:
@@ -565,7 +565,7 @@
   visiblename: development/arduino-cli
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - slackbuilds@dscp.org
   categories:
@@ -660,7 +660,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - owen@fyralabs.com
@@ -674,7 +674,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Arduino command line tool
   maintainers:
     - owen@fyralabs.com
@@ -688,7 +688,7 @@
   visiblename: arduino-cli-debuginfo
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -702,7 +702,7 @@
   visiblename: arduino-cli-debuginfo
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -716,7 +716,7 @@
   visiblename: arduino-cli-debugsource
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -730,7 +730,7 @@
   visiblename: arduino-cli-debugsource
   version: 1.5.1
   origversion: 1.5.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -764,7 +764,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -781,7 +781,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1-4
-  status: newest
+  status: outdated
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
     - nicolas@club1.fr
@@ -796,7 +796,7 @@
   visiblename: arduino-cli
   version: 1.5.1
   origversion: 1.5.1_2
-  status: newest
+  status: outdated
   summary: Arduino command line interface
   maintainers:
     - filip@filiprojek.cz
