@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,086 · **Forks**: 506 · **Open issues**: 1,116 · **Contributors**: 106
+- **Stars**: 5,088 · **Forks**: 506 · **Open issues**: 1,116 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 1800 · **Open PRs**: 67 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2990
+- **Releases**: 180 · **Merged PRs**: 1800 · **Open PRs**: 69 · **Closed issues**: 898 · **Open issues**: 218 · **Commits**: 2990
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 6 | 21 | 0 | 1 | 8 |
-| last60d | 2026-09-12 | 1 | 12 | 28 | 0 | 1 | 14 |
-| 90d | 2026-08-13 | 1 | 19 | 32 | 1 | 4 | 21 |
-| last180d | 2026-05-15 | 4 | 65 | 39 | 8 | 7 | 65 |
-| 360d | 2025-11-16 | 8 | 125 | 49 | 25 | 20 | 129 |
-| last720d | 2024-11-21 | 19 | 283 | 56 | 63 | 48 | 288 |
+| 30d | 2026-10-13 | 1 | 6 | 23 | 0 | 1 | 8 |
+| last60d | 2026-09-13 | 1 | 11 | 30 | 0 | 1 | 14 |
+| 90d | 2026-08-14 | 1 | 19 | 34 | 1 | 4 | 21 |
+| last180d | 2026-05-16 | 4 | 65 | 41 | 8 | 7 | 65 |
+| 360d | 2025-11-17 | 8 | 125 | 51 | 25 | 20 | 129 |
+| last720d | 2024-11-22 | 19 | 283 | 58 | 61 | 48 | 286 |
 
 ## Release assets
 
@@ -92,15 +92,15 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/arduino-cli). **3** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+Reported by **57** distros on [repology.org](https://repology.org/project/arduino-cli). **5** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.5.1` | ⚠️ outdated |
+| Debian unstable | `1.5.1` | 🪦 legacy |
 | Debian 14 | `1.5.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
 | Arch | `1.5.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.6.0` | ✅ latest |
 | Nix unstable | `1.5.1` | ⚠️ outdated |
 | Void | `1.5.1` | ⚠️ outdated |
 | Alpine edge | `1.5.1` | ⚠️ outdated |
@@ -114,4 +114,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:28:15Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:01:54Z._

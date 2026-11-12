@@ -48,22 +48,22 @@ x install arduino-cli
 
 ## 流行度
 
-- **Star**: 5,086 · **Fork**: 506 · **开放 issue**: 1,116 · **贡献者**: 106
+- **Star**: 5,088 · **Fork**: 506 · **开放 issue**: 1,116 · **贡献者**: 106
 
 ## 累计统计
 
-- **发布数**: 180 · **已合并 PR**: 1800 · **开放 PR**: 67 · **已关闭 issue**: 898 · **开放 issue**: 218 · **提交数**: 2990
+- **发布数**: 180 · **已合并 PR**: 1800 · **开放 PR**: 69 · **已关闭 issue**: 898 · **开放 issue**: 218 · **提交数**: 2990
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 6 | 21 | 0 | 1 | 8 |
-| last60d | 2026-09-12 | 1 | 12 | 28 | 0 | 1 | 14 |
-| 90d | 2026-08-13 | 1 | 19 | 32 | 1 | 4 | 21 |
-| last180d | 2026-05-15 | 4 | 65 | 39 | 8 | 7 | 65 |
-| 360d | 2025-11-16 | 8 | 125 | 49 | 25 | 20 | 129 |
-| last720d | 2024-11-21 | 19 | 283 | 56 | 63 | 48 | 288 |
+| 30d | 2026-10-13 | 1 | 6 | 23 | 0 | 1 | 8 |
+| last60d | 2026-09-13 | 1 | 11 | 30 | 0 | 1 | 14 |
+| 90d | 2026-08-14 | 1 | 19 | 34 | 1 | 4 | 21 |
+| last180d | 2026-05-16 | 4 | 65 | 41 | 8 | 7 | 65 |
+| 360d | 2025-11-17 | 8 | 125 | 51 | 25 | 20 | 129 |
+| last720d | 2024-11-22 | 19 | 283 | 58 | 61 | 48 | 286 |
 
 ## Release 资产
 
@@ -92,15 +92,15 @@ x install arduino-cli
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/arduino-cli) 上共有 **56** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/arduino-cli) 上共有 **57** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**44** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `1.5.1` | ⚠️ outdated |
+| Debian unstable | `1.5.1` | 🪦 legacy |
 | Debian 14 | `1.5.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
 | Arch | `1.5.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.6.0` | ✅ latest |
 | Nix unstable | `1.5.1` | ⚠️ outdated |
 | Void | `1.5.1` | ⚠️ outdated |
 | Alpine edge | `1.5.1` | ⚠️ outdated |
@@ -114,4 +114,4 @@ arduino-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T07:28:16Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T09:01:55Z._
