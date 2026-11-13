@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Arduino command-line interface
+- repo: homebrew
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Arduino command-line interface
 - repo: alpine_edge
   subrepo: testing
   srcname: arduino-cli
@@ -111,23 +125,6 @@
     - golang-github-arduino-arduino-cli-dev
     - arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-4
-  status: legacy
-  maintainers:
-    - pkg-electronics-devel@alioth-lists.debian.net
-    - nicolas@club1.fr
-    - obbardc@debian.org
-    - werdahias@debian.org
-  categories:
-    - electronics
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: arduino-cli
-  binnames:
-    - golang-github-arduino-arduino-cli-dev
-    - arduino-cli
-  visiblename: arduino-cli
   version: 1.6.0
   origversion: 1.6.0+ds1-1
   status: newest
@@ -175,6 +172,17 @@
     - MPL-2.0
   categories:
     - dev-embedded
+- repo: parabola
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
 - repo: gentoo_ovl_guru
   srcname: dev-embedded/arduino-cli
   visiblename: dev-embedded/arduino-cli
@@ -223,20 +231,6 @@
   origversion: null
   status: outdated
   summary: Tools to manage Arduino compatible boards
-- repo: homebrew
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.6.0
-  origversion: null
-  status: newest
-  summary: Arduino command-line interface
-- repo: homebrew
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Arduino command-line interface
 - repo: kali_rolling
   subrepo: main
   srcname: arduino-cli
@@ -504,17 +498,6 @@
   summary: An all-in-one solution that provides Boards/Library Managers, sketch builder, board detection, uploader, and many other tools needed to use any Arduino compatible board and platform from command line or machine interfaces
   maintainers:
     - me@mikealmel.ooo
-- repo: parabola
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
 - repo: raspbian_testing
   subrepo: main
   srcname: arduino-cli
@@ -675,9 +658,9 @@
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Arduino command line tool
   maintainers:
     - owen@fyralabs.com
@@ -689,9 +672,9 @@
   srcname: arduino-cli
   binname: arduino-cli
   visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Arduino command line tool
   maintainers:
     - owen@fyralabs.com
@@ -703,9 +686,9 @@
   srcname: arduino-cli
   binname: arduino-cli-debuginfo
   visiblename: arduino-cli-debuginfo
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Debug information for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -717,9 +700,9 @@
   srcname: arduino-cli
   binname: arduino-cli-debuginfo
   visiblename: arduino-cli-debuginfo
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Debug information for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -731,9 +714,9 @@
   srcname: arduino-cli
   binname: arduino-cli-debugsource
   visiblename: arduino-cli-debugsource
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Debug sources for package arduino-cli
   maintainers:
     - owen@fyralabs.com
@@ -745,9 +728,9 @@
   srcname: arduino-cli
   binname: arduino-cli-debugsource
   visiblename: arduino-cli-debugsource
-  version: 1.5.1
-  origversion: 1.5.1-1.fcrawhide
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
   summary: Debug sources for package arduino-cli
   maintainers:
     - owen@fyralabs.com
