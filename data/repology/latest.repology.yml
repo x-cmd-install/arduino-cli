@@ -1,36 +1,3 @@
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
 - repo: alpine_edge
   subrepo: testing
   srcname: arduino-cli
@@ -113,45 +80,15 @@
 - repo: chocolatey
   binname: arduino-cli
   visiblename: Arduino Command Line Interface (CLI)
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: |-
     Arduino CLI is an all-in-one solution that provides builder, boards/library manager,
     uploader, discovery and many other tools needed to use any Arduino compatible
     board and platforms.
 - repo: debian_14
   subrepo: forky/main
-  srcname: arduino-cli
-  binnames:
-    - golang-github-arduino-arduino-cli-dev
-    - arduino-cli
-  visiblename: arduino-cli
-  version: 1.6.0
-  origversion: 1.6.0+ds1-1
-  status: newest
-  maintainers:
-    - pkg-electronics-devel@alioth-lists.debian.net
-    - nicolas@club1.fr
-    - obbardc@debian.org
-    - werdahias@debian.org
-  categories:
-    - electronics
-- repo: nix_stable_25_11
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.3.1
-  origversion: null
-  status: outdated
-  summary: Arduino from the command line
-  maintainers:
-    - ryan@ryantm.com
-    - sfrijters@gmail.com
-  licenses:
-    - GPL-3.0-only
-    - Apache-2.0
-- repo: debian_unstable
-  subrepo: sid/main
   srcname: arduino-cli
   binnames:
     - golang-github-arduino-arduino-cli-dev
@@ -300,19 +237,6 @@
     - werdahias@debian.org
   categories:
     - electronics
-- repo: nix_stable_26_05
-  srcname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.4.1
-  origversion: null
-  status: outdated
-  summary: Arduino from the command line
-  maintainers:
-    - ryan@ryantm.com
-    - sfrijters@gmail.com
-  licenses:
-    - GPL-3.0-only
-    - Apache-2.0
 - repo: liguros_stable
   srcname: dev-embedded/arduino-cli
   visiblename: dev-embedded/arduino-cli
@@ -428,6 +352,39 @@
     - GPL-3
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
 - repo: nix_stable_24_05
   srcname: arduino-cli
   visiblename: arduino-cli
@@ -456,6 +413,32 @@
   srcname: arduino-cli
   visiblename: arduino-cli
   version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Arduino from the command line
+  maintainers:
+    - ryan@ryantm.com
+    - sfrijters@gmail.com
+  licenses:
+    - GPL-3.0-only
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.3.1
+  origversion: null
+  status: outdated
+  summary: Arduino from the command line
+  maintainers:
+    - ryan@ryantm.com
+    - sfrijters@gmail.com
+  licenses:
+    - GPL-3.0-only
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.4.1
   origversion: null
   status: outdated
   summary: Arduino from the command line
