@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: arduino-cli
+  binname: arduino-cli
+  visiblename: arduino-cli
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Arduino command line interface
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_edge
   subrepo: testing
   srcname: arduino-cli
@@ -95,7 +106,7 @@
     - arduino-cli
   visiblename: arduino-cli
   version: 1.6.0
-  origversion: 1.6.0+ds1-1
+  origversion: 1.6.0+ds1-2
   status: newest
   maintainers:
     - pkg-electronics-devel@alioth-lists.debian.net
@@ -364,17 +375,6 @@
   licenses:
     - GPL-3.0-only
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: arduino-cli
-  binname: arduino-cli
-  visiblename: arduino-cli
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
-  summary: Arduino command line interface
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_unstable
   subrepo: extra
   srcname: arduino-cli
   binname: arduino-cli
