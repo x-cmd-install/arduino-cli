@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,098 · **Forks**: 509 · **Open issues**: 1,118 · **Contributors**: 105
+- **Stars**: 5,098 · **Forks**: 508 · **Open issues**: 1,119 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 1802 · **Open PRs**: 72 · **Closed issues**: 898 · **Open issues**: 220 · **Commits**: 2992
+- **Releases**: 180 · **Merged PRs**: 1802 · **Open PRs**: 71 · **Closed issues**: 898 · **Open issues**: 221 · **Commits**: 2992
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 6 | 23 | 0 | 2 | 0 |
-| last60d | 2026-09-24 | 1 | 10 | 30 | 0 | 3 | 0 |
-| 90d | 2026-08-25 | 1 | 21 | 36 | 1 | 5 | 0 |
-| last180d | 2026-05-27 | 3 | 57 | 43 | 6 | 9 | 0 |
-| 360d | 2025-11-28 | 8 | 122 | 53 | 24 | 22 | 0 |
-| last720d | 2024-12-03 | 17 | 279 | 61 | 60 | 47 | 283 |
+| 30d | 2026-10-25 | 1 | 6 | 22 | 0 | 3 | 0 |
+| last60d | 2026-09-25 | 1 | 9 | 29 | 0 | 4 | 0 |
+| 90d | 2026-08-26 | 1 | 20 | 35 | 1 | 6 | 0 |
+| last180d | 2026-05-28 | 3 | 55 | 42 | 6 | 10 | 0 |
+| 360d | 2025-11-29 | 8 | 122 | 52 | 24 | 23 | 0 |
+| last720d | 2024-12-04 | 17 | 279 | 60 | 60 | 48 | 283 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/arduino-cli). **15** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/arduino-cli). **16** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -114,4 +114,4 @@ Install metadata for arduino-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:43:50Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:16:53Z._
